@@ -1,0 +1,14 @@
+/Users/paulinharruda/Projects/css/PTI_Algoritimo/PTI_Algoritimo/bin/Debug/net7.0/PTI_Algoritimo
+/Users/paulinharruda/Projects/css/PTI_Algoritimo/PTI_Algoritimo/bin/Debug/net7.0/PTI_Algoritimo.deps.json
+/Users/paulinharruda/Projects/css/PTI_Algoritimo/PTI_Algoritimo/bin/Debug/net7.0/PTI_Algoritimo.runtimeconfig.json
+/Users/paulinharruda/Projects/css/PTI_Algoritimo/PTI_Algoritimo/bin/Debug/net7.0/PTI_Algoritimo.dll
+/Users/paulinharruda/Projects/css/PTI_Algoritimo/PTI_Algoritimo/bin/Debug/net7.0/PTI_Algoritimo.pdb
+/Users/paulinharruda/Projects/css/PTI_Algoritimo/PTI_Algoritimo/obj/Debug/net7.0/PTI_Algoritimo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulinharruda/Projects/css/PTI_Algoritimo/PTI_Algoritimo/obj/Debug/net7.0/PTI_Algoritimo.AssemblyInfoInputs.cache
+/Users/paulinharruda/Projects/css/PTI_Algoritimo/PTI_Algoritimo/obj/Debug/net7.0/PTI_Algoritimo.AssemblyInfo.cs
+/Users/paulinharruda/Projects/css/PTI_Algoritimo/PTI_Algoritimo/obj/Debug/net7.0/PTI_Algoritimo.csproj.CoreCompileInputs.cache
+/Users/paulinharruda/Projects/css/PTI_Algoritimo/PTI_Algoritimo/obj/Debug/net7.0/PTI_Algoritimo.dll
+/Users/paulinharruda/Projects/css/PTI_Algoritimo/PTI_Algoritimo/obj/Debug/net7.0/refint/PTI_Algoritimo.dll
+/Users/paulinharruda/Projects/css/PTI_Algoritimo/PTI_Algoritimo/obj/Debug/net7.0/PTI_Algoritimo.pdb
+/Users/paulinharruda/Projects/css/PTI_Algoritimo/PTI_Algoritimo/obj/Debug/net7.0/PTI_Algoritimo.genruntimeconfig.cache
+/Users/paulinharruda/Projects/css/PTI_Algoritimo/PTI_Algoritimo/obj/Debug/net7.0/ref/PTI_Algoritimo.dll
