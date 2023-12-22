@@ -8,4 +8,4 @@ O projeto foi desenvolvido para a PTI do 1.º período do curso de Análise e De
   - inclusão de produtos ao estoque.
   - listagem dos produtos cadastrados.
   - remoção de produtos do estoque.
-  - informações sobre cada produto cadastrado.
+  - informações detalhadas de cada produto cadastrado.
