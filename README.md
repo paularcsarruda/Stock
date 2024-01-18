@@ -4,8 +4,9 @@
 > O projeto foi desenvolvido para a PTI do 1.º período do curso de Análise e Desenvolvimento de Sistemas do SENAC/SP.
 >
 ## Funcionalidades
-
-  - inclusão de produtos ao estoque.
-  - listagem dos produtos cadastrados.
-  - remoção de produtos do estoque.
-  - informações detalhadas de cada produto cadastrado.
+>
+>  - inclusão de produtos ao estoque.
+>  - listagem dos produtos cadastrados.
+>  - remoção de produtos do estoque.
+>  - informações detalhadas de cada produto cadastrado.
+>
