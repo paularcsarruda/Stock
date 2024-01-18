@@ -1,8 +1,8 @@
 # Stock
-
-Gestor de estoque desenvolvido na Linguagem **CSharp**. 
-O projeto foi desenvolvido para a PTI do 1.º período do curso de Análise e Desenvolvimento de Sistemas do SENAC/SP.
-
+>
+> Gestor de estoque desenvolvido na Linguagem **CSharp**. 
+> O projeto foi desenvolvido para a PTI do 1.º período do curso de Análise e Desenvolvimento de Sistemas do SENAC/SP.
+>
 ## Funcionalidades
 
   - inclusão de produtos ao estoque.
